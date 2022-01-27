@@ -54,7 +54,7 @@ const Map = ({ setCoordinates, setBounds, coords, places, setChildClicked, weath
                 ))}
                 {weatherData?.list?.length && weatherData?.list?.map((data, i) => (
                 <div key={i} lat={data.coord.lat} lng={data.coord.lon}>
-                    <img src={`http://openweathermap.org/img/w/${data.weather[0].icon}.png`} height="70px" />
+                    <img src={`http://openweathermap.org/img/w/${data.weather[0].icon}.png`} alt="weather" height="70px" />
                 </div>
                 ))}
             </GoogleMapReact>

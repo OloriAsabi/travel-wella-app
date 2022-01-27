@@ -53,7 +53,7 @@ function App() {
         setIsLoading(false)
       });
     }
-  },[bounds, type])
+  },[bounds, coords, type])
 
   console.log(places)
   return (

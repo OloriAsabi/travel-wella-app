@@ -12,7 +12,7 @@ const PlaceDetails = ({ place, selected, refProp }) => {
 
     const classes = useStyles();
     return (
-       <Card elevation={6}>
+       <Card elevation={5}>
            <CardMedia
            style={{ height: 350 }}
            image={place.photo ? place.photo.images.large.url : 'https://raw.githubusercontent.com/OloriAsabi/book-images/main/src/PROGRAM/download-2.jpg'}

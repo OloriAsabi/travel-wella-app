@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/travel-wella-app/static/css/main.c7104bfd.css",
-    "main.js": "/travel-wella-app/static/js/main.0e12eaaa.js",
+    "main.js": "/travel-wella-app/static/js/main.a73e196a.js",
     "index.html": "/travel-wella-app/index.html",
     "main.c7104bfd.css.map": "/travel-wella-app/static/css/main.c7104bfd.css.map",
-    "main.0e12eaaa.js.map": "/travel-wella-app/static/js/main.0e12eaaa.js.map"
+    "main.a73e196a.js.map": "/travel-wella-app/static/js/main.a73e196a.js.map"
   },
   "entrypoints": [
     "static/css/main.c7104bfd.css",
-    "static/js/main.0e12eaaa.js"
+    "static/js/main.a73e196a.js"
   ]
 }
